@@ -3,6 +3,10 @@
 
 ## **[Открыть полную версию ноутбука с графиками Plotly в Google Colab](https://colab.research.google.com/drive/1y3Tvz5Ea6VBYuiC1X1CqKpGKk-us7nKb?hl=ru#scrollTo=Co-yAFUbrTx3)**
 
+## Исходные данные
+В проекте используется датасет отзывов клиентов Ozon Bank: 
+[Russian Bank Customer Reviews Dataset на Kaggle](https://www.kaggle.com/datasets/scorpy12/russian-bank-customer-reviews-dataset).
+
 
 ### Описание проекта :
 Задача: автоматизировать поиск жалоб на мошенничество, кражу денег и фрод по текстовым отзывам клиентов Ozon банка. 
